@@ -103,30 +103,6 @@ Some insights discovered during analysis:
 
 ---
 
-## How to Run This Project
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/amazon-sales-analysis-ml.git
-```
-
-### 2️⃣ Install Required Libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-
-### 3️⃣ Run the Notebook
-
-Open the notebook in **Jupyter Notebook / Google Colab**
-
-```
-Amazon Sales Analysis using Machine Learning.ipynb
-```
-
----
-
 ## Future Improvements
 
 * Build advanced models such as **Random Forest / XGBoost**
